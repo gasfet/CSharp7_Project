@@ -1,0 +1,11 @@
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\bin\Debug\mook_Notepad.exe.config
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\bin\Debug\mook_Notepad.exe
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\bin\Debug\mook_Notepad.pdb
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\obj\Debug\mook_Notepad.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\obj\Debug\mook_Notepad.Form1.resources
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\obj\Debug\mook_Notepad.Form2.resources
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\obj\Debug\mook_Notepad.Properties.Resources.resources
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\obj\Debug\mook_Notepad.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\obj\Debug\mook_Notepad.exe
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\obj\Debug\mook_Notepad.pdb
+C:\CSharpProject\Chap04\mook_Notepad\mook_Notepad\obj\Debug\mook_Notepad.csproj.CoreCompileInputs.cache

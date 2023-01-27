@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\bin\Debug\mook_TrayIcon.exe.config
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\bin\Debug\mook_TrayIcon.exe
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\bin\Debug\mook_TrayIcon.pdb
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\obj\Debug\mook_TrayIcon.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\obj\Debug\mook_TrayIcon.Form1.resources
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\obj\Debug\mook_TrayIcon.Properties.Resources.resources
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\obj\Debug\mook_TrayIcon.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\obj\Debug\mook_TrayIcon.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\obj\Debug\mook_TrayIcon.exe
+C:\CSharpProject\Chap03\mook_TrayIcon\mook_TrayIcon\obj\Debug\mook_TrayIcon.pdb

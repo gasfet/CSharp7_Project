@@ -1,0 +1,9 @@
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\obj\Debug\mook_PreventKiilAgent.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\obj\Debug\mook_PreventKiilAgent.Form1.resources
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\obj\Debug\mook_PreventKiilAgent.Properties.Resources.resources
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\obj\Debug\mook_PreventKiilAgent.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\bin\Debug\mook_PreventKiilAgent.exe.config
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\bin\Debug\mook_PreventKiilAgent.exe
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\bin\Debug\mook_PreventKiilAgent.pdb
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\obj\Debug\mook_PreventKiilAgent.exe
+C:\CSharpProject\Chap06\mook_PreventKiilAgent\mook_PreventKiilAgent\obj\Debug\mook_PreventKiilAgent.pdb

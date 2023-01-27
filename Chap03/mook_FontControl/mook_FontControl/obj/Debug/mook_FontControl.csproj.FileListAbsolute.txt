@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\bin\Debug\mook_FontControl.exe.config
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\bin\Debug\mook_FontControl.exe
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\bin\Debug\mook_FontControl.pdb
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\obj\Debug\mook_FontControl.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\obj\Debug\mook_FontControl.Form1.resources
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\obj\Debug\mook_FontControl.Properties.Resources.resources
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\obj\Debug\mook_FontControl.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\obj\Debug\mook_FontControl.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\obj\Debug\mook_FontControl.exe
+C:\CSharpProject\Chap03\mook_FontControl\mook_FontControl\obj\Debug\mook_FontControl.pdb

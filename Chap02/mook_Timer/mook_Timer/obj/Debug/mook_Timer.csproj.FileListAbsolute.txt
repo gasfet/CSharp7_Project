@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\bin\Debug\mook_Timer.exe.config
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\bin\Debug\mook_Timer.exe
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\bin\Debug\mook_Timer.pdb
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.Form1.resources
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.Properties.Resources.resources
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.exe
+C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.pdb

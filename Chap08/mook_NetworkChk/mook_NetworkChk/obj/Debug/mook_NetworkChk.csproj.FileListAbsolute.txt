@@ -1,0 +1,11 @@
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\bin\Debug\mook_NetworkChk.exe.config
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\bin\Debug\mook_NetworkChk.exe
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\bin\Debug\mook_NetworkChk.pdb
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\obj\Debug\mook_NetworkChk.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\obj\Debug\mook_NetworkChk.Form1.resources
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\obj\Debug\mook_NetworkChk.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\obj\Debug\mook_NetworkChk.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\obj\Debug\mook_NetworkChk.exe
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\obj\Debug\mook_NetworkChk.pdb
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\obj\Debug\mook_NetworkChk.Form2.resources
+C:\CSharpProject\Chap08\mook_NetworkChk\mook_NetworkChk\obj\Debug\mook_NetworkChk.csproj.CoreCompileInputs.cache

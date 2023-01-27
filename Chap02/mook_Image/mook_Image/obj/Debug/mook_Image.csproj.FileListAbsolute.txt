@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap02\mook_Image\mook_Image\bin\Debug\mook_Image.exe.config
+C:\CSharpProject\Chap02\mook_Image\mook_Image\bin\Debug\mook_Image.exe
+C:\CSharpProject\Chap02\mook_Image\mook_Image\bin\Debug\mook_Image.pdb
+C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.Form1.resources
+C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.Properties.Resources.resources
+C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.exe
+C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.pdb

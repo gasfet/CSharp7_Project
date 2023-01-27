@@ -1,0 +1,11 @@
+C:\CSharpProject\Chap06\mook_PreventKill\mook_PreventKill\bin\Debug\mook_PreventKill.exe.config
+C:\CSharpProject\Chap06\mook_PreventKill\mook_PreventKill\bin\Debug\mook_PreventKill.exe
+C:\CSharpProject\Chap06\mook_PreventKill\mook_PreventKill\bin\Debug\mook_PreventKill.pdb
+C:\CSharpProject\Chap06\mook_PreventKill\mook_PreventKill\obj\Debug\mook_PreventKill.Form1.resources
+C:\CSharpProject\Chap06\mook_PreventKill\mook_PreventKill\obj\Debug\mook_PreventKill.Properties.Resources.resources
+C:\CSharpProject\Chap06\mook_PreventKill\mook_PreventKill\obj\Debug\mook_PreventKill.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap06\mook_PreventKill\mook_PreventKill\obj\Debug\mook_PreventKill.exe
+C:\CSharpProject\Chap06\mook_PreventKill\mook_PreventKill\obj\Debug\mook_PreventKill.pdb
+C:\CSharpProject\Chap06\mook_PreventKillAgent\mook_PreventKillAgent\bin\Debug\mook_PreventKill.exe.config
+C:\CSharpProject\Chap06\mook_PreventKillAgent\mook_PreventKillAgent\bin\Debug\mook_PreventKill.exe
+C:\CSharpProject\Chap06\mook_PreventKillAgent\mook_PreventKillAgent\bin\Debug\mook_PreventKill.pdb

@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\bin\Debug\mook_WebDownLoader.exe.config
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\bin\Debug\mook_WebDownLoader.exe
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\bin\Debug\mook_WebDownLoader.pdb
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\obj\Debug\mook_WebDownLoader.Form1.resources
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\obj\Debug\mook_WebDownLoader.Properties.Resources.resources
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\obj\Debug\mook_WebDownLoader.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\obj\Debug\mook_WebDownLoader.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\obj\Debug\mook_WebDownLoader.exe
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\obj\Debug\mook_WebDownLoader.pdb
+C:\CSharpProject\Chap03\mook_WebDownLoader\mook_WebDownLoader\obj\Debug\mook_WebDownLoader.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\bin\Debug\mook_FileMonitor.exe.config
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\bin\Debug\mook_FileMonitor.exe
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\bin\Debug\mook_FileMonitor.pdb
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\obj\Debug\mook_FileMonitor.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\obj\Debug\mook_FileMonitor.Form1.resources
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\obj\Debug\mook_FileMonitor.Properties.Resources.resources
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\obj\Debug\mook_FileMonitor.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\obj\Debug\mook_FileMonitor.exe
+C:\CSharpProject\Chap04\mook_FileMonitor\mook_FileMonitor\obj\Debug\mook_FileMonitor.pdb

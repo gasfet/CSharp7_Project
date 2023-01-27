@@ -1,0 +1,12 @@
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\bin\Debug\mook_FormView.exe.config
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\bin\Debug\mook_FormView.exe
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\bin\Debug\mook_FormView.pdb
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.Form1.resources
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.Form2.resources
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.Form3.resources
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.Properties.Resources.resources
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.exe
+C:\CSharpProject\Chap03\mook_FormView\mook_FormView\obj\Debug\mook_FormView.pdb

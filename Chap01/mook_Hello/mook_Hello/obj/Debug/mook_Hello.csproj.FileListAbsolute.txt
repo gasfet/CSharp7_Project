@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\bin\Debug\mook_Hello.exe.config
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\bin\Debug\mook_Hello.exe
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\bin\Debug\mook_Hello.pdb
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\obj\Debug\mook_Hello.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\obj\Debug\mook_Hello.Form1.resources
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\obj\Debug\mook_Hello.Properties.Resources.resources
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\obj\Debug\mook_Hello.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\obj\Debug\mook_Hello.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\obj\Debug\mook_Hello.exe
+C:\CSharpProject\Chap01\mook_Hello\mook_Hello\obj\Debug\mook_Hello.pdb

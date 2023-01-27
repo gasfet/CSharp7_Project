@@ -1,0 +1,9 @@
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\bin\Debug\mook_FlaxibleForm.exe.config
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\bin\Debug\mook_FlaxibleForm.exe
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\bin\Debug\mook_FlaxibleForm.pdb
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\obj\Debug\mook_FlaxibleForm.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\obj\Debug\mook_FlaxibleForm.Form1.resources
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\obj\Debug\mook_FlaxibleForm.Properties.Resources.resources
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\obj\Debug\mook_FlaxibleForm.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\obj\Debug\mook_FlaxibleForm.exe
+C:\CSharpProject\Chap05\mook_FlaxibleForm\mook_FlaxibleForm\obj\Debug\mook_FlaxibleForm.pdb

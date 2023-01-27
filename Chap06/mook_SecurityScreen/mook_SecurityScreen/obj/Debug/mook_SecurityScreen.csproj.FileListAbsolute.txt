@@ -1,0 +1,12 @@
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\bin\Debug\mook_SecurityScreen.exe.config
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\bin\Debug\mook_SecurityScreen.exe
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\bin\Debug\mook_SecurityScreen.pdb
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.Form1.resources
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.Form2.resources
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.Form3.resources
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.Properties.Resources.resources
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.exe
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.pdb
+C:\CSharpProject\Chap06\mook_SecurityScreen\mook_SecurityScreen\obj\Debug\mook_SecurityScreen.csproj.CoreCompileInputs.cache

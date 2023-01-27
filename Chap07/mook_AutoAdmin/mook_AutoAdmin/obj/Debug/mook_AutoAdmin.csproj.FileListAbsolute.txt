@@ -1,0 +1,19 @@
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.exe.config
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.exe
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.pdb
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.Form1.resources
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.Properties.Resources.resources
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.exe
+C:\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.pdb
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.exe.config
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.exe
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.pdb
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.csprojResolveAssemblyReference.cache
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.Form1.resources
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.Properties.Resources.resources
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.csproj.GenerateResource.Cache
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.csproj.CoreCompileInputs.cache
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.exe
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap07\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.pdb

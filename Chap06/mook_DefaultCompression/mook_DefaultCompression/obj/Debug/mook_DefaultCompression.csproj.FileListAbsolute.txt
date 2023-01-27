@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\bin\Debug\mook_DefaultCompression.exe.config
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\bin\Debug\mook_DefaultCompression.exe
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\bin\Debug\mook_DefaultCompression.pdb
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\obj\Debug\mook_DefaultCompression.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\obj\Debug\mook_DefaultCompression.Form1.resources
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\obj\Debug\mook_DefaultCompression.Properties.Resources.resources
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\obj\Debug\mook_DefaultCompression.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\obj\Debug\mook_DefaultCompression.exe
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\obj\Debug\mook_DefaultCompression.pdb
+C:\CSharpProject\Chap06\mook_DefaultCompression\mook_DefaultCompression\obj\Debug\mook_DefaultCompression.csproj.CoreCompileInputs.cache

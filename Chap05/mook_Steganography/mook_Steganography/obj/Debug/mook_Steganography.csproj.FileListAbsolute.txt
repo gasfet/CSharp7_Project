@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\obj\Debug\mook_Steganography.Form1.resources
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\obj\Debug\mook_Steganography.Properties.Resources.resources
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\obj\Debug\mook_Steganography.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\bin\Debug\mook_Steganography.exe.config
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\bin\Debug\mook_Steganography.exe
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\bin\Debug\mook_Steganography.pdb
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\obj\Debug\mook_Steganography.exe
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\obj\Debug\mook_Steganography.pdb
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\obj\Debug\mook_Steganography.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap05\mook_Steganography\mook_Steganography\obj\Debug\mook_Steganography.csproj.CoreCompileInputs.cache

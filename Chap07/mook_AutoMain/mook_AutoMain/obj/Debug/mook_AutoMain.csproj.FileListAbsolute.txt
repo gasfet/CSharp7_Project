@@ -1,0 +1,9 @@
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.exe.config
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.exe
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.pdb
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.Form1.resources
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.Properties.Resources.resources
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.exe
+C:\CSharpProject\Chap07\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.pdb

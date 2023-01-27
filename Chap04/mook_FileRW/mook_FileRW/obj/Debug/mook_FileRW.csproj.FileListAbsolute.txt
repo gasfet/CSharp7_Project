@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\bin\Debug\mook_FileRW.exe.config
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\bin\Debug\mook_FileRW.exe
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\bin\Debug\mook_FileRW.pdb
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\obj\Debug\mook_FileRW.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\obj\Debug\mook_FileRW.Form1.resources
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\obj\Debug\mook_FileRW.Properties.Resources.resources
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\obj\Debug\mook_FileRW.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\obj\Debug\mook_FileRW.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\obj\Debug\mook_FileRW.exe
+C:\CSharpProject\Chap04\mook_FileRW\mook_FileRW\obj\Debug\mook_FileRW.pdb

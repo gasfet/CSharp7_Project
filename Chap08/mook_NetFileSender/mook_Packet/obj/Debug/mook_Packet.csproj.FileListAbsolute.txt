@@ -1,0 +1,5 @@
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_Packet\bin\Debug\mook_Packet.dll
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_Packet\bin\Debug\mook_Packet.pdb
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_Packet\obj\Debug\mook_Packet.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_Packet\obj\Debug\mook_Packet.dll
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_Packet\obj\Debug\mook_Packet.pdb

@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\bin\Debug\mook_TextView.exe.config
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\bin\Debug\mook_TextView.exe
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\bin\Debug\mook_TextView.pdb
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.Form1.resources
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.Properties.Resources.resources
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.exe
+C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.pdb

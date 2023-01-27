@@ -1,0 +1,20 @@
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\bin\Debug\mook_HexEditor.exe.config
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\bin\Debug\mook_HexEditor.exe
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\bin\Debug\mook_HexEditor.pdb
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.Form1.resources
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.Properties.Resources.resources
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.exe
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.pdb
+C:\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.csproj.CoreCompileInputs.cache
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\bin\Debug\mook_HexEditor.exe.config
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\bin\Debug\mook_HexEditor.exe
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\bin\Debug\mook_HexEditor.pdb
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.csprojResolveAssemblyReference.cache
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.Form1.resources
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.Properties.Resources.resources
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.csproj.GenerateResource.Cache
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.csproj.CoreCompileInputs.cache
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.exe
+D:\03. 원고\01. C#\C# 7.0\04. 교정\CSharpProject\Chap06\mook_HexEditor\mook_HexEditor\obj\Debug\mook_HexEditor.pdb

@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\bin\Debug\mook_Capture.exe.config
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\bin\Debug\mook_Capture.exe
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\bin\Debug\mook_Capture.pdb
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\obj\Debug\mook_Capture.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\obj\Debug\mook_Capture.Form1.resources
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\obj\Debug\mook_Capture.Properties.Resources.resources
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\obj\Debug\mook_Capture.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\obj\Debug\mook_Capture.exe
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\obj\Debug\mook_Capture.pdb
+C:\CSharpProject\Chap05\mook_Capture\mook_Capture\obj\Debug\mook_Capture.csproj.CoreCompileInputs.cache

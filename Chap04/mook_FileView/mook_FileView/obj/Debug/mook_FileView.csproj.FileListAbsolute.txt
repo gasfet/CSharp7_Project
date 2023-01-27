@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\bin\Debug\mook_FileView.exe.config
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\bin\Debug\mook_FileView.exe
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\bin\Debug\mook_FileView.pdb
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\obj\Debug\mook_FileView.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\obj\Debug\mook_FileView.Form1.resources
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\obj\Debug\mook_FileView.Properties.Resources.resources
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\obj\Debug\mook_FileView.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\obj\Debug\mook_FileView.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\obj\Debug\mook_FileView.exe
+C:\CSharpProject\Chap04\mook_FileView\mook_FileView\obj\Debug\mook_FileView.pdb

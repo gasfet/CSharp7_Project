@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\bin\Debug\mook_ListBox.exe.config
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\bin\Debug\mook_ListBox.exe
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\bin\Debug\mook_ListBox.pdb
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.Form1.resources
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.Properties.Resources.resources
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.exe
+C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.pdb

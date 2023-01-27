@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\bin\Debug\mook_ProcessView.exe.config
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\bin\Debug\mook_ProcessView.exe
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\bin\Debug\mook_ProcessView.pdb
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\obj\Debug\mook_ProcessView.Form1.resources
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\obj\Debug\mook_ProcessView.Properties.Resources.resources
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\obj\Debug\mook_ProcessView.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\obj\Debug\mook_ProcessView.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\obj\Debug\mook_ProcessView.exe
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\obj\Debug\mook_ProcessView.pdb
+C:\CSharpProject\Chap03\mook_ProcessView\mook_ProcessView\obj\Debug\mook_ProcessView.csprojResolveAssemblyReference.cache

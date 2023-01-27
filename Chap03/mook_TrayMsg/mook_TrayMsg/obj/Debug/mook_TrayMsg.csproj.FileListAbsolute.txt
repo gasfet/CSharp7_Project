@@ -1,0 +1,11 @@
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\bin\Debug\mook_TrayMsg.exe.config
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\bin\Debug\mook_TrayMsg.exe
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\bin\Debug\mook_TrayMsg.pdb
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\obj\Debug\mook_TrayMsg.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\obj\Debug\mook_TrayMsg.Form1.resources
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\obj\Debug\mook_TrayMsg.Form2.resources
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\obj\Debug\mook_TrayMsg.Properties.Resources.resources
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\obj\Debug\mook_TrayMsg.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\obj\Debug\mook_TrayMsg.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\obj\Debug\mook_TrayMsg.exe
+C:\CSharpProject\Chap03\mook_TrayMsg\mook_TrayMsg\obj\Debug\mook_TrayMsg.pdb

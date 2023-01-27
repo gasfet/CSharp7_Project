@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\bin\Debug\mook_RBMsg.exe.config
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\bin\Debug\mook_RBMsg.exe
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\bin\Debug\mook_RBMsg.pdb
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.Form1.resources
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.Properties.Resources.resources
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.exe
+C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.pdb

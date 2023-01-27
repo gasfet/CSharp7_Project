@@ -1,0 +1,19 @@
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\bin\Debug\mook_FileWipe.exe.config
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\bin\Debug\mook_FileWipe.exe
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\bin\Debug\mook_FileWipe.pdb
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.csprojResolveAssemblyReference.cache
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.Form1.resources
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.Properties.Resources.resources
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.csproj.GenerateResource.Cache
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.exe
+c:\users\chmook\documents\visual studio 2017\Projects\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.pdb
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\bin\Debug\mook_FileWipe.exe.config
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\bin\Debug\mook_FileWipe.exe
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\bin\Debug\mook_FileWipe.pdb
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.Form1.resources
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.Properties.Resources.resources
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.exe
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.pdb
+C:\CSharpProject\Chap04\mook_FileWipe\mook_FileWipe\obj\Debug\mook_FileWipe.csproj.CoreCompileInputs.cache

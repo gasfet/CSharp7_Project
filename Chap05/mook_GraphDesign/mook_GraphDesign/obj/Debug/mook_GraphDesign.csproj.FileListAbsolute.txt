@@ -1,0 +1,12 @@
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\bin\Debug\mook_GraphDesign.exe.config
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\bin\Debug\mook_GraphDesign.exe
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\bin\Debug\mook_GraphDesign.pdb
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\bin\Debug\mook_GraphCore.dll
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\bin\Debug\mook_GraphCore.pdb
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\obj\Debug\mook_GraphDesign.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\obj\Debug\mook_GraphDesign.Properties.Resources.resources
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\obj\Debug\mook_GraphDesign.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\obj\Debug\mook_GraphDesign.exe
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\obj\Debug\mook_GraphDesign.pdb
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\obj\Debug\mook_GraphDesign.Form1.resources
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphDesign\obj\Debug\mook_GraphDesign.csproj.CoreCompileInputs.cache

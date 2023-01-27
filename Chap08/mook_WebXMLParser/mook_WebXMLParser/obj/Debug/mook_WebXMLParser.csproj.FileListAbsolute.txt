@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\bin\Debug\mook_WebXMLParser.exe.config
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\bin\Debug\mook_WebXMLParser.exe
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\bin\Debug\mook_WebXMLParser.pdb
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\obj\Debug\mook_WebXMLParser.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\obj\Debug\mook_WebXMLParser.Form1.resources
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\obj\Debug\mook_WebXMLParser.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\obj\Debug\mook_WebXMLParser.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\obj\Debug\mook_WebXMLParser.exe
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\obj\Debug\mook_WebXMLParser.pdb
+C:\CSharpProject\Chap08\mook_WebXMLParser\mook_WebXMLParser\obj\Debug\mook_WebXMLParser.csproj.CoreCompileInputs.cache

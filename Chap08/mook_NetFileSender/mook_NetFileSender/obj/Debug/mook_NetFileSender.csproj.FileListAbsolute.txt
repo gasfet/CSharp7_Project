@@ -1,0 +1,12 @@
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\bin\Debug\mook_NetFileSender.exe.config
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\bin\Debug\mook_NetFileSender.exe
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\bin\Debug\mook_NetFileSender.pdb
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\bin\Debug\mook_Packet.dll
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\bin\Debug\mook_Packet.pdb
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\obj\Debug\mook_NetFileSender.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\obj\Debug\mook_NetFileSender.Form1.resources
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\obj\Debug\mook_NetFileSender.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\obj\Debug\mook_NetFileSender.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\obj\Debug\mook_NetFileSender.exe
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\obj\Debug\mook_NetFileSender.pdb
+C:\CSharpProject\Chap08\mook_NetFileSender\mook_NetFileSender\obj\Debug\mook_NetFileSender.csproj.CoreCompileInputs.cache

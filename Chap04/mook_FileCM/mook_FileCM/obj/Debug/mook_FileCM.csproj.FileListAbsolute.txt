@@ -1,0 +1,11 @@
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.Form1.resources
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.Form2.resources
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.Properties.Resources.resources
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\bin\Debug\mook_FileCM.exe.config
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\bin\Debug\mook_FileCM.exe
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\bin\Debug\mook_FileCM.pdb
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.exe
+C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.pdb

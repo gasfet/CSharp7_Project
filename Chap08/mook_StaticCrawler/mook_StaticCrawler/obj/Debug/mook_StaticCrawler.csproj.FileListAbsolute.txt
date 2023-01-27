@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\bin\Debug\mook_StaticCrawler.exe.config
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\bin\Debug\mook_StaticCrawler.exe
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\bin\Debug\mook_StaticCrawler.pdb
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\obj\Debug\mook_StaticCrawler.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\obj\Debug\mook_StaticCrawler.Form1.resources
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\obj\Debug\mook_StaticCrawler.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\obj\Debug\mook_StaticCrawler.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\obj\Debug\mook_StaticCrawler.exe
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\obj\Debug\mook_StaticCrawler.pdb
+C:\CSharpProject\Chap08\mook_StaticCrawler\mook_StaticCrawler\obj\Debug\mook_StaticCrawler.csproj.CoreCompileInputs.cache

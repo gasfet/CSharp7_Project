@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\obj\Debug\mook_DynamicCrawler.Form1.resources
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\obj\Debug\mook_DynamicCrawler.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\obj\Debug\mook_DynamicCrawler.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\bin\Debug\mook_DynamicCrawler.exe.config
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\bin\Debug\mook_DynamicCrawler.exe
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\bin\Debug\mook_DynamicCrawler.pdb
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\obj\Debug\mook_DynamicCrawler.exe
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\obj\Debug\mook_DynamicCrawler.pdb
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\obj\Debug\mook_DynamicCrawler.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_DynamicCrawler\mook_DynamicCrawler\obj\Debug\mook_DynamicCrawler.csproj.CoreCompileInputs.cache

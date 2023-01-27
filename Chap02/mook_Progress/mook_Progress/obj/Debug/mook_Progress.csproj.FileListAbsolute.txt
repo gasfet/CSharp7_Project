@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\bin\Debug\mook_Progress.exe.config
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\bin\Debug\mook_Progress.exe
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\bin\Debug\mook_Progress.pdb
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.Form1.resources
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.Properties.Resources.resources
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.exe
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.pdb
+C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.csprojResolveAssemblyReference.cache

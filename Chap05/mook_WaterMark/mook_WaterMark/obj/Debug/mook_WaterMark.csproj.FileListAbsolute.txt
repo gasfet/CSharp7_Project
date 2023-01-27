@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\bin\Debug\mook_WaterMark.exe.config
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\bin\Debug\mook_WaterMark.exe
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\bin\Debug\mook_WaterMark.pdb
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\obj\Debug\mook_WaterMark.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\obj\Debug\mook_WaterMark.Form1.resources
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\obj\Debug\mook_WaterMark.Properties.Resources.resources
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\obj\Debug\mook_WaterMark.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\obj\Debug\mook_WaterMark.exe
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\obj\Debug\mook_WaterMark.pdb
+C:\CSharpProject\Chap05\mook_WaterMark\mook_WaterMark\obj\Debug\mook_WaterMark.csproj.CoreCompileInputs.cache

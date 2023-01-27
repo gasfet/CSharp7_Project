@@ -1,0 +1,14 @@
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\bin\Debug\mook_DataLoading.exe.config
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\bin\Debug\mook_DataLoading.exe
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\bin\Debug\mook_DataLoading.pdb
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\bin\Debug\MySql.Data.xml
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\obj\Debug\mook_DataLoading.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\obj\Debug\mook_DataLoading.Form1.resources
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\obj\Debug\mook_DataLoading.Form2.resources
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\obj\Debug\mook_DataLoading.Properties.Resources.resources
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\obj\Debug\mook_DataLoading.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\obj\Debug\mook_DataLoading.exe
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\obj\Debug\mook_DataLoading.pdb
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\obj\Debug\mook_DataLoading.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\bin\Debug\MySql.Data.dll
+C:\CSharpProject\Chap07\mook_DataLoading\mook_DataLoading\bin\Debug\Google.Protobuf.dll

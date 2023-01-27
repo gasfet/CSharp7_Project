@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\bin\Debug\mook_ListView.exe.config
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\bin\Debug\mook_ListView.exe
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\bin\Debug\mook_ListView.pdb
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\obj\Debug\mook_ListView.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\obj\Debug\mook_ListView.Form1.resources
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\obj\Debug\mook_ListView.Properties.Resources.resources
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\obj\Debug\mook_ListView.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\obj\Debug\mook_ListView.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\obj\Debug\mook_ListView.exe
+C:\CSharpProject\Chap02\mook_ListView\mook_ListView\obj\Debug\mook_ListView.pdb

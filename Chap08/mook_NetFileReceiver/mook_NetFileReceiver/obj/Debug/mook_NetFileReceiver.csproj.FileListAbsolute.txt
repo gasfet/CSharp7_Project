@@ -1,0 +1,12 @@
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\bin\Debug\mook_NetFileReceiver.exe.config
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\bin\Debug\mook_NetFileReceiver.exe
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\bin\Debug\mook_NetFileReceiver.pdb
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\bin\Debug\mook_Packet.dll
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\bin\Debug\mook_Packet.pdb
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\obj\Debug\mook_NetFileReceiver.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\obj\Debug\mook_NetFileReceiver.Form1.resources
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\obj\Debug\mook_NetFileReceiver.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\obj\Debug\mook_NetFileReceiver.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\obj\Debug\mook_NetFileReceiver.exe
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\obj\Debug\mook_NetFileReceiver.pdb
+C:\CSharpProject\Chap08\mook_NetFileReceiver\mook_NetFileReceiver\obj\Debug\mook_NetFileReceiver.csproj.CoreCompileInputs.cache

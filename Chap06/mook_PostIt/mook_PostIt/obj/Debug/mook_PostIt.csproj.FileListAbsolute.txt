@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\bin\Debug\mook_PostIt.exe.config
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\bin\Debug\mook_PostIt.exe
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\bin\Debug\mook_PostIt.pdb
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\obj\Debug\mook_PostIt.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\obj\Debug\mook_PostIt.Form1.resources
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\obj\Debug\mook_PostIt.Properties.Resources.resources
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\obj\Debug\mook_PostIt.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\obj\Debug\mook_PostIt.exe
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\obj\Debug\mook_PostIt.pdb
+C:\CSharpProject\Chap06\mook_PostIt\mook_PostIt\obj\Debug\mook_PostIt.csproj.CoreCompileInputs.cache

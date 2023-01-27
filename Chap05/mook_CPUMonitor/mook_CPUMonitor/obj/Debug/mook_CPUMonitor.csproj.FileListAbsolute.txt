@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\bin\Debug\mook_CPUMonitor.exe.config
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\bin\Debug\mook_CPUMonitor.exe
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\bin\Debug\mook_CPUMonitor.pdb
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\obj\Debug\mook_CPUMonitor.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\obj\Debug\mook_CPUMonitor.Form1.resources
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\obj\Debug\mook_CPUMonitor.Properties.Resources.resources
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\obj\Debug\mook_CPUMonitor.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\obj\Debug\mook_CPUMonitor.exe
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\obj\Debug\mook_CPUMonitor.pdb
+C:\CSharpProject\Chap05\mook_CPUMonitor\mook_CPUMonitor\obj\Debug\mook_CPUMonitor.csproj.CoreCompileInputs.cache

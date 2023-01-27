@@ -1,0 +1,8 @@
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphCore\bin\Debug\mook_GraphCore.dll
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphCore\bin\Debug\mook_GraphCore.pdb
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphCore\obj\Debug\mook_GraphCore.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphCore\obj\Debug\mook_GraphCore.mook_GraphCore.resources
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphCore\obj\Debug\mook_GraphCore.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphCore\obj\Debug\mook_GraphCore.dll
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphCore\obj\Debug\mook_GraphCore.pdb
+C:\CSharpProject\Chap05\mook_GraphDesign\mook_GraphCore\obj\Debug\mook_GraphCore.csproj.CoreCompileInputs.cache

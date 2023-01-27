@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap08\mook_Message\mook_Message\bin\Debug\mook_Message.exe.config
+C:\CSharpProject\Chap08\mook_Message\mook_Message\bin\Debug\mook_Message.exe
+C:\CSharpProject\Chap08\mook_Message\mook_Message\bin\Debug\mook_Message.pdb
+C:\CSharpProject\Chap08\mook_Message\mook_Message\obj\Debug\mook_Message.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_Message\mook_Message\obj\Debug\mook_Message.Form1.resources
+C:\CSharpProject\Chap08\mook_Message\mook_Message\obj\Debug\mook_Message.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_Message\mook_Message\obj\Debug\mook_Message.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_Message\mook_Message\obj\Debug\mook_Message.exe
+C:\CSharpProject\Chap08\mook_Message\mook_Message\obj\Debug\mook_Message.pdb
+C:\CSharpProject\Chap08\mook_Message\mook_Message\obj\Debug\mook_Message.csproj.CoreCompileInputs.cache

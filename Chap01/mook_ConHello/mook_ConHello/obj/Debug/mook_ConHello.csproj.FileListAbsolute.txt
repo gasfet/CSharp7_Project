@@ -1,0 +1,7 @@
+C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\bin\Debug\mook_ConHello.exe.config
+C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\bin\Debug\mook_ConHello.exe
+C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\bin\Debug\mook_ConHello.pdb
+C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.csproj.CoreCompileInputs.cache
+C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.exe
+C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.pdb

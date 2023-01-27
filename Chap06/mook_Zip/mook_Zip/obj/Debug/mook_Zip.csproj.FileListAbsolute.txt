@@ -1,0 +1,11 @@
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\bin\Debug\mook_Zip.exe.config
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\bin\Debug\mook_Zip.exe
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\bin\Debug\mook_Zip.pdb
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\obj\Debug\mook_Zip.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\obj\Debug\mook_Zip.Form1.resources
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\obj\Debug\mook_Zip.Properties.Resources.resources
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\obj\Debug\mook_Zip.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\obj\Debug\mook_Zip.exe
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\obj\Debug\mook_Zip.pdb
+C:\CSharpProject\Chap06\mook_Zip\mook_Zip\obj\Debug\mook_Zip.csproj.CoreCompileInputs.cache

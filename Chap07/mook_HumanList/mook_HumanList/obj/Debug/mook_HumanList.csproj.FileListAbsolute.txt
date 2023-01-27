@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\bin\Debug\mook_HumanList.exe.config
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\bin\Debug\mook_HumanList.exe
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\bin\Debug\mook_HumanList.pdb
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\obj\Debug\mook_HumanList.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\obj\Debug\mook_HumanList.Form1.resources
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\obj\Debug\mook_HumanList.Properties.Resources.resources
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\obj\Debug\mook_HumanList.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\obj\Debug\mook_HumanList.exe
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\obj\Debug\mook_HumanList.pdb
+C:\CSharpProject\Chap07\mook_HumanList\mook_HumanList\obj\Debug\mook_HumanList.csproj.CoreCompileInputs.cache
