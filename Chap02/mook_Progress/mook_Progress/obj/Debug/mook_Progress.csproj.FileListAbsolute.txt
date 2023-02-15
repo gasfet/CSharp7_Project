@@ -8,3 +8,14 @@ C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.cspr
 C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.exe
 C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.pdb
 C:\CSharpProject\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.csprojResolveAssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\bin\Debug\mook_Progress.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\bin\Debug\mook_Progress.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\bin\Debug\mook_Progress.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Progress\mook_Progress\obj\Debug\mook_Progress.pdb

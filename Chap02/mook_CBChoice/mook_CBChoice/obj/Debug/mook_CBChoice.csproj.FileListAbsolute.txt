@@ -8,3 +8,14 @@ C:\CSharpProject\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.cspr
 C:\CSharpProject\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.csproj.CoreCompileInputs.cache
 C:\CSharpProject\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.exe
 C:\CSharpProject\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\bin\Debug\mook_CBChoice.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\bin\Debug\mook_CBChoice.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\bin\Debug\mook_CBChoice.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_CBChoice\mook_CBChoice\obj\Debug\mook_CBChoice.pdb

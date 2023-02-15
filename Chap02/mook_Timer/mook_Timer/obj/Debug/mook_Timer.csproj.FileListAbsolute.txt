@@ -8,3 +8,14 @@ C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csproj.Genera
 C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csproj.CoreCompileInputs.cache
 C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.exe
 C:\CSharpProject\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\bin\Debug\mook_Timer.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\bin\Debug\mook_Timer.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\bin\Debug\mook_Timer.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Timer\mook_Timer\obj\Debug\mook_Timer.pdb

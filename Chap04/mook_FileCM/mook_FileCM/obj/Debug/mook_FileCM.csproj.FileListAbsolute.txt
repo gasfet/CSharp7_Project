@@ -9,3 +9,15 @@ C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\bin\Debug\mook_FileCM.exe
 C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\bin\Debug\mook_FileCM.pdb
 C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.exe
 C:\CSharpProject\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\bin\Debug\mook_FileCM.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\bin\Debug\mook_FileCM.exe
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\bin\Debug\mook_FileCM.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.Form2.resources
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.exe
+D:\myGits\gasfet\CSharp7_Project\Chap04\mook_FileCM\mook_FileCM\obj\Debug\mook_FileCM.pdb

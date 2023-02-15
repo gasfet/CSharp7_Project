@@ -8,3 +8,14 @@ C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csproj.Genera
 C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csproj.CoreCompileInputs.cache
 C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.exe
 C:\CSharpProject\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\bin\Debug\mook_Image.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\bin\Debug\mook_Image.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\bin\Debug\mook_Image.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_Image\mook_Image\obj\Debug\mook_Image.pdb

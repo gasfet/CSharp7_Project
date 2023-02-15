@@ -5,3 +5,11 @@ C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.cspr
 C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.csproj.CoreCompileInputs.cache
 C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.exe
 C:\CSharpProject\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_ConHello\mook_ConHello\bin\Debug\mook_ConHello.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_ConHello\mook_ConHello\bin\Debug\mook_ConHello.exe
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_ConHello\mook_ConHello\bin\Debug\mook_ConHello.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.exe
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_ConHello\mook_ConHello\obj\Debug\mook_ConHello.pdb

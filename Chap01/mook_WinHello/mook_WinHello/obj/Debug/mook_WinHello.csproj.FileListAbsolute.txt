@@ -8,3 +8,14 @@ C:\CSharpProject\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.cspr
 C:\CSharpProject\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.csproj.CoreCompileInputs.cache
 C:\CSharpProject\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.exe
 C:\CSharpProject\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\bin\Debug\mook_WinHello.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\bin\Debug\mook_WinHello.exe
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\bin\Debug\mook_WinHello.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.exe
+D:\myGits\gasfet\CSharp7_Project\Chap01\mook_WinHello\mook_WinHello\obj\Debug\mook_WinHello.pdb

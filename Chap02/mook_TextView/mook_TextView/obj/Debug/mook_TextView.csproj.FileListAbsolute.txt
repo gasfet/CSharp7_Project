@@ -8,3 +8,14 @@ C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.cspr
 C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.csproj.CoreCompileInputs.cache
 C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.exe
 C:\CSharpProject\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\bin\Debug\mook_TextView.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\bin\Debug\mook_TextView.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\bin\Debug\mook_TextView.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_TextView\mook_TextView\obj\Debug\mook_TextView.pdb

@@ -8,3 +8,14 @@ C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csproj.
 C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csproj.CoreCompileInputs.cache
 C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.exe
 C:\CSharpProject\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\bin\Debug\mook_ListBox.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\bin\Debug\mook_ListBox.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\bin\Debug\mook_ListBox.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_ListBox\mook_ListBox\obj\Debug\mook_ListBox.pdb

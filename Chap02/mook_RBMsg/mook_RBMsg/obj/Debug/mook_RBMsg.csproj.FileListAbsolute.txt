@@ -8,3 +8,14 @@ C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csproj.Genera
 C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csproj.CoreCompileInputs.cache
 C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.exe
 C:\CSharpProject\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\bin\Debug\mook_RBMsg.exe.config
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\bin\Debug\mook_RBMsg.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\bin\Debug\mook_RBMsg.pdb
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csproj.AssemblyReference.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csproj.SuggestedBindingRedirects.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.Form1.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.Properties.Resources.resources
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csproj.GenerateResource.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.csproj.CoreCompileInputs.cache
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.exe
+D:\myGits\gasfet\CSharp7_Project\Chap02\mook_RBMsg\mook_RBMsg\obj\Debug\mook_RBMsg.pdb
